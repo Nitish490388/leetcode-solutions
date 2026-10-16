@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nitish490388/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Nitish490388/leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Nitish490388/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Union-Find
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nitish490388/leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Nitish490388/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nitish490388/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Nitish490388/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
