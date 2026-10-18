@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Nitish490388/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nitish490388/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Nitish490388/leetcode-solutions/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/Nitish490388/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Nitish490388/leetcode-solutions/tree/master/0169-majority-element) |
 ## Hash Table
@@ -69,9 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nitish490388/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Nitish490388/leetcode-solutions/tree/master/0055-jump-game) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Nitish490388/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Nitish490388/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Nitish490388/leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
