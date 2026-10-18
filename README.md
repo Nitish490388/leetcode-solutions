@@ -76,8 +76,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Nitish490388/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Nitish490388/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Nitish490388/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Nitish490388/leetcode-solutions/tree/master/0055-jump-game) |
+## Stack
+|  |
+| ------- |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Nitish490388/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+## Simulation
+|  |
+| ------- |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Nitish490388/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
