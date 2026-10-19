@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Nitish490388/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Nitish490388/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nitish490388/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nitish490388/leetcode-solutions/tree/master/0055-jump-game) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Nitish490388/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Nitish490388/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Nitish490388/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Nitish490388/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Nitish490388/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Nitish490388/leetcode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
