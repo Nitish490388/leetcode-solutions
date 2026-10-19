@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nitish490388/leetcode-solutions/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Nitish490388/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/Nitish490388/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nitish490388/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nitish490388/leetcode-solutions/tree/master/0055-jump-game) |
@@ -102,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nitish490388/leetcode-solutions/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Nitish490388/leetcode-solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
