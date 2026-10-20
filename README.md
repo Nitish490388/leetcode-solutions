@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Nitish490388/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Nitish490388/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Nitish490388/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0875-koko-eating-bananas](https://github.com/Nitish490388/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Nitish490388/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Nitish490388/leetcode-solutions/tree/master/0031-next-permutation) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/Nitish490388/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
