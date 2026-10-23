@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nitish490388/leetcode-solutions/tree/master/0100-same-tree) |
+| [0130-surrounded-regions](https://github.com/Nitish490388/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nitish490388/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Nitish490388/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nitish490388/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nitish490388/leetcode-solutions/tree/master/0100-same-tree) |
+| [0130-surrounded-regions](https://github.com/Nitish490388/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nitish490388/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Nitish490388/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Nitish490388/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nitish490388/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nitish490388/leetcode-solutions/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/Nitish490388/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Nitish490388/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Nitish490388/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Nitish490388/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Nitish490388/leetcode-solutions/tree/master/0169-majority-element) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nitish490388/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Nitish490388/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nitish490388/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Nitish490388/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Divide and Conquer
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Nitish490388/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nitish490388/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Nitish490388/leetcode-solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
