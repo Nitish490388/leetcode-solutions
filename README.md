@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nitish490388/leetcode-solutions/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Nitish490388/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Nitish490388/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nitish490388/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nitish490388/leetcode-solutions/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Nitish490388/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Nitish490388/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Nitish490388/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Nitish490388/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Nitish490388/leetcode-solutions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Nitish490388/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Nitish490388/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0875-koko-eating-bananas](https://github.com/Nitish490388/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nitish490388/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Nitish490388/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -111,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/Nitish490388/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/Nitish490388/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Nitish490388/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
