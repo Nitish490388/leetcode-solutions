@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Nitish490388/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Nitish490388/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nitish490388/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Nitish490388/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nitish490388/leetcode-solutions/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Nitish490388/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Nitish490388/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Nitish490388/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nitish490388/leetcode-solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Nitish490388/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Nitish490388/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0695-max-area-of-island](https://github.com/Nitish490388/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0875-koko-eating-bananas](https://github.com/Nitish490388/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nitish490388/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Nitish490388/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Nitish490388/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Nitish490388/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Nitish490388/leetcode-solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
